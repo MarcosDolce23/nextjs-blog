@@ -1,0 +1,25 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "classnames": "^2.2.6",
+    "date-fns": "^2.16.1",
+    "gray-matter": "^4.0.2",
+    "jquery": "^3.5.1",
+    "next": "^9.5.4",
+    "next-cordova-exporter": "^1.0.9",
+    "poper": "^0.1.1",
+    "popper.js": "^1.16.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.1"
+  }
+}
